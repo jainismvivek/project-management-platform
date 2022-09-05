@@ -1,4 +1,4 @@
-## My Slack Clone - Connect
+## project collaboration platform - Connect
 
 I am building an clone of the Slack using react redux and firebase.
 
