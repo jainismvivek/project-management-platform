@@ -1,6 +1,6 @@
 ## project collaboration platform - Connect
 
-I am building an clone of the Slack using react redux and firebase.
+ project management platform   using react redux and firebase.
 
   ### `yarn start` to start the project
 
