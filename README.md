@@ -27,4 +27,4 @@
     * uuid
 
 ### Component Architecture
-<img src="./Screen Shot 2019-09-09 at 11.26.34 pm.png"/>
+<img src="./ScreenShot components architechture.png"/>
